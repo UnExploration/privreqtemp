@@ -1,5 +1,7 @@
 # privreqtemp 
 -- File needed for chrome store
+
+
 Privacy Policy
 Last updated: July 15, 2021
 
